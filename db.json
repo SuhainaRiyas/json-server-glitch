@@ -51,5 +51,17 @@
       },
       "id": 4
     }
+  ],
+  "students": [
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "phone": "9908089066",
+      "gender": "Male",
+      "college": "GCE",
+      "course": "b.tech",
+      "department": "it",
+      "id": 1
+    }
   ]
 }
